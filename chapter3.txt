@@ -1,0 +1,1 @@
+This is where Version Control comes into play, it automatically tracks every minute change in your project and allows us to revert back to a previous version no matter how many times you changed your files.
