@@ -1,1 +1,8 @@
-Git is a VCS — Version Control System. What that really means is, Git helps us manage our project files. One of the primary things that git does and also the primary reason it exists is to keep track of the entire history of things that you are working on.
+Git is a VCS — 
+Version Control System. 
+What that really means is, 
+Git helps us manage our project files. 
+One of the primary things that git does and also the primary reason it exists is to keep track of the entire history of things that you are working on.
+
+
+Serial Killers
